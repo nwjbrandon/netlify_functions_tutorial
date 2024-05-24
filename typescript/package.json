@@ -1,0 +1,14 @@
+{
+    "name": "netlify-functions-tutorials",
+    "version": "1.0.0",
+    "description": "Netlify Functions Tutorial",
+    "author": "nwjbrandon",
+    "license": "ISC",
+    "dependencies": {
+        "@netlify/functions": "^2.7.0",
+        "uuid": "^9.0.1"
+    },
+    "devDependencies": {
+        "@types/uuid": "^9.0.8"
+    }
+}
